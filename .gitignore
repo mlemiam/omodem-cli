@@ -1,0 +1,12 @@
+env
+impacket/*
+develop-eggs/
+__pycache__/
+*.egg-info/
+build/
+dist/
+*.egg
+__pycache__/
+*.py[cod]
+venv
+ip-modem.config
